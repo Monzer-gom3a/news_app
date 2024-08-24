@@ -6,6 +6,6 @@ class AppRoutes {
   static const HOME = '/home';
 
   static final routes = [
-    GetPage(name: HOME, page: () => HomePage()),
+    GetPage(name: HOME, page: () =>  HomePage()),
   ];
 }

@@ -13,6 +13,8 @@ dependencies:
 
   cupertino_icons: ^1.0.6
   get:
+  font_awesome_flutter:
+
 
 dev_dependencies:
   flutter_test:
@@ -36,6 +38,10 @@ flutter:
     - family: Cairo
       fonts:
         - asset: fonts/Cairo-Regular.ttf
+
+    - family: Matemasie
+      fonts:
+        - asset: fonts/Matemasie-Regular.ttf
 
 # flutter_icons:
 #   android: "launcher_icon"
